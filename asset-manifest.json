@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f938cde9.chunk.css",
+    "main.js": "/static/js/main.593f6a15.chunk.js",
+    "main.js.map": "/static/js/main.593f6a15.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9d81372a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9d81372a.js.map",
+    "static/js/2.305334e6.chunk.js": "/static/js/2.305334e6.chunk.js",
+    "static/js/2.305334e6.chunk.js.map": "/static/js/2.305334e6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f938cde9.chunk.css.map": "/static/css/main.f938cde9.chunk.css.map",
+    "static/js/2.305334e6.chunk.js.LICENSE.txt": "/static/js/2.305334e6.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/Mulish-Regular.dab57e0e.woff",
+    "static/media/bell.721b5e46.svg": "/static/media/bell.721b5e46.svg",
+    "static/media/logo.4fc791dd.svg": "/static/media/logo.4fc791dd.svg",
+    "static/media/search.6d70b94e.svg": "/static/media/search.6d70b94e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d81372a.js",
+    "static/js/2.305334e6.chunk.js",
+    "static/css/main.f938cde9.chunk.css",
+    "static/js/main.593f6a15.chunk.js"
+  ]
+}
